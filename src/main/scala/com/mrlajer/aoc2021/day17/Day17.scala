@@ -1,7 +1,5 @@
 package com.mrlajer.aoc2021.day17
 
-import com.mrlajer.aoc2021.utils.FileUtils
-
 import scala.annotation.tailrec
 
 object Day17 extends App {
